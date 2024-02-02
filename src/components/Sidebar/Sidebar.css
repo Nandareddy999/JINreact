@@ -1,0 +1,33 @@
+.sidebar {
+    width: 15%;
+    min-height: 100vh;
+    background: #fc00ff;
+    background: -webkit-linear-gradient(to top, #3604ec, #1800f3);
+    background: linear-gradient(to top, #c621db, #2f04ca); 
+}
+.sidebar-details {
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+.sidebar-details p {
+    color: white;
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: 400;
+}
+.sidebar-details img{
+    height: 30px;
+    width: 40px;
+}
+.logout {
+    display: flex;
+}
+
+
+.logout p {
+    margin: 5px;
+    padding-top:20px;
+    padding-left: 20px;
+    color: white;
+}
+
